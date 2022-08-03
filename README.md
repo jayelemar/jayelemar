@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayelemar
+- 👋 Hi, I’m Jay Elemar Termulo
 - 👀 I’m interested in web development and animations
 - 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on ...
