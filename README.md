@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jay Elemar Termulo
 - 👀 I’m interested in web development and animations
-- 🌱 I’m currently learning HTML, CSS & Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React 
+- knowledgable in  HTML, CSS & Javascript
+- 
 
 <!---
 jayelemar/jayelemar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
