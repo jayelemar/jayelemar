@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and animations
 - 🌱 I’m currently learning React 
 - knowledgable in  HTML, CSS, Javascript & React.JS
-- 
+  
 
 <!---
 jayelemar/jayelemar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
