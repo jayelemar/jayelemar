@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jay Elemar Termulo
 - 👀 I’m interested in web development and animations
 - 🌱 I’m currently learning React 
-- knowledgable in  HTML, CSS, Javascript & React.JS
+- knowledgable in  HTML, CSS, Javascript, React.JS, typescript & Redux
   
 
 <!---
