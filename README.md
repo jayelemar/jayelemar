@@ -1,7 +1,7 @@
 
 ## I am Jay Elemar Termulo 👋 
 
-I'm a self-taught full-stack developer and an engineer by discipline. I started developing and build beautiful websites since 2022. I am still continuing on developing my skills and assets to engage further in an advancing technology nowadays. 
+I'm a self-taught frontend developer with basic knowledge in backend development. An engineer by discipline, I started developing and build beautiful websites since 2022. I am still continuing on developing my skills and assets to engage further in an advancing technology nowadays. 
 
 
 ## 🛠 Tech Stack
