@@ -1,20 +1,31 @@
+
+
+# Hi, I'm Jay Elemar Termulo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
       width="355"
-      style="position: absolute; top: -100; left: 0;"
+      style="position: relative; top: 300; left: 300;"
       align="right"
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
   </a>
 </div>
-<div align="left" style="margin-bottom: 0;">
-# Hi, I'm Jay Elemar Termulo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</div>
-
-- I'm a self-taught full stack developer. An engineer by discipline, I started developing websites since 2022. I'm continuously developing my skills and upgrading my assets to become more reliable and adaptive in the tech industry. 
-- I love coffee, hot or cold especially without sugar.
-
+<ul>
+   <li>
+    I'm a self-taught Frontend Developer. 
+   </li>
+  <li>
+    An engineer by discipline, I started developing websites since 2022.    
+  </li>
+  <li>
+    I'm continuously developing my skills and upgrading my assets to become more reliable and adaptive in the tech industry.
+  </li>
+  <li>
+   I love coffee, hot or cold especially without sugar.
+  </li>
+</ul>
+<br/>
 <p align="left">
   &nbsp;
   <a href = "mailto: jetermulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,7 +34,7 @@
 </p>
 
 
-## 🛠 Tech Stack
+<h1>My Tech Stack</h1>
 <div style="display: inline_block">
 <h5 align="left">Frontend Development</h5>
 <p align="left">
