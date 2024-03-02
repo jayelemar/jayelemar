@@ -1,9 +1,8 @@
 <div align="left">
-  <br/>
-  <br/>
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
       width="355"
+      height="100"
       align="right"
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
