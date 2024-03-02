@@ -2,7 +2,7 @@
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
       width="355"
-      style="position: absolute; top: 0; left: 0;"
+      style="position: absolute; top: -1/2; left: -1/2;"
       align="right"
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
