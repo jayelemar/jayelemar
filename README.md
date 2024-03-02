@@ -9,7 +9,7 @@
 </div>
 
 # Hi, I'm Jay Elemar Termulo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
+<br/>
 - I'm a self-taught full stack developer. An engineer by discipline, I started developing websites since 2022. I'm continuously developing my skills and upgrading my assets to become more reliable and adaptive in the tech industry. 
 - I love coffee, hot or cold especially without sugar.
 
