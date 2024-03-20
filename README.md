@@ -12,26 +12,26 @@
   </a>
 </div>
 <ul>
+   <img width="12" />
    <li>
     I'm a self-taught Frontend Developer. 
    </li>
   <li>
-    An engineer by discipline, I started developing websites since 2022.    
-  </li>
-  <li>
-    I'm continuously developing my skills and upgrading my assets to become more reliable and adaptive in the tech industry.
+    An engineer by discipline,started developing websites since 2022.    
   </li>
   <li>
    I love coffee, hot or cold especially without sugar.
   </li>
+
 </ul>
 <br/>
-<p align="left">
-  &nbsp;
+
+  <p align="left">
   <a href = "mailto: jetermulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    &nbsp; 
+  <img width="12" />
   <a href="https://www.linkedin.com/in/jay-termulo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+  </p>
+   <img width="12" />
 
 
 <h1>My Tech Stack</h1>
@@ -50,16 +50,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="nextjs logo" width="100" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</p>                         
+</p>
 
-<h5 align="left">Backend Development</h5>
+
+<h4 align="left">Backend Development</h4>
 <p align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
