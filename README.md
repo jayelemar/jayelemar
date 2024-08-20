@@ -14,7 +14,7 @@
 <ul>
    <img width="12" />
    <li>
-    I'm a self-taught Frontend Developer. 
+    Frontend Developer. 
    </li>
   <li>
     An engineer by discipline,started developing websites since 2022.    
