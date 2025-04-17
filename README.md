@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="nextjs logo" width="100" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="next.js logo" width="100" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
   <img width="12" />
@@ -64,9 +64,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+    <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nest.js logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" /> 
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
 </p>
