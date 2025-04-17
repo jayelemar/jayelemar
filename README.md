@@ -17,7 +17,10 @@
     Frontend Developer. 
    </li>
   <li>
-    An engineer by discipline,started developing websites since 2022.    
+    Engineer by training, web developer by passion.  
+  </li>
+  <li>
+    Developing websites since 2022.    
   </li>
   <li>
    I love coffee, hot or cold especially without sugar.
@@ -50,11 +53,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="next.js logo" width="100" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="next.js logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/figma/000000" height="38" alt="figma logo"  />
 </p>
 
 
