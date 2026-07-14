@@ -14,7 +14,7 @@
 <ul>
    <img width="12" />
    <li>
-    Frontend Developer. 
+    Full Stack Developer. 
    </li>
   <li>
     Engineer by training, web developer by passion.  
