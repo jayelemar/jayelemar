@@ -73,7 +73,6 @@
   <img width="12" /> 
   <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
 </p>
 
 <h5 align="left">Other Tools</h5>
