@@ -17,9 +17,6 @@
     Full Stack Developer. 
    </li>
   <li>
-    Engineer by training, web developer by passion.  
-  </li>
-  <li>
     Developing websites since 2022.    
   </li>
   <li>
